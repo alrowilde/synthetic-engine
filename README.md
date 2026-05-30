@@ -7,9 +7,15 @@ Generate documents and invoices for VLM/OCR model training quickly.
 
 Generate photorealistic business documents with annotations — ready for use in OCR and VLM training.
 
+<h2 style="color: red;">
+    <strong>
+    * This project is not a demo — it is a complete, logically self-consistent, highly mature, and fully reproducible methodology.
+    </strong>
+</h2>
 
 ### Updates
 - **2026/05/28** — Added an Arabian example.
+- **2026/05/30** — Added a Question and Answer (Q&A) module to this project.
 
 ### Why It Matters
 In FinTech, Logistics, and Healthcare, real business documents are often scarce, highly sensitive, or expensive to label. Synthetic Engine solves this by producing high-fidelity synthetic images that closely match real-world conditions while automatically providing accurate, structured annotations.
