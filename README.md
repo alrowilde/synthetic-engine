@@ -43,7 +43,7 @@ The result: enterprises can rapidly build robust document AI systems without com
 
 
 <div style="max-width: 1100px; margin: 30px auto;">
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px;">
+  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px;">
     <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
       <img src="./examples/Example_0.jpeg" alt="Example_0" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.12);">
       <div style="margin-top: 10px; font-weight: 600; font-size: 15px; color: #222;">Bank Statement</div>
