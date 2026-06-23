@@ -41,42 +41,50 @@ The result: enterprises can rapidly build robust document AI systems without com
 
 **Examples of generated business images (with Annotations):**
 
-
-<div style="max-width: 1100px; margin: 30px auto;">
-  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px;">
-    <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-      <img src="./examples/Example_0.jpeg" alt="Example_0" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.12);">
-      <div style="margin-top: 10px; font-weight: 600; font-size: 15px; color: #222;">Bank Statement</div>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-      <img src="./examples/Example_1.jpeg" alt="Example_1" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.12);">
-      <div style="margin-top: 10px; font-weight: 600; font-size: 15px; color: #222;">Receipt Example</div>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-      <img src="./examples/Example_2.jpeg" alt="Example_2" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.12);">
-      <div style="margin-top: 10px; font-weight: 600; font-size: 15px; color: #222;">Complex Form</div>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-      <img src="./examples/Example_3.jpeg" alt="Arabian Example" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.12);">
-      <div style="margin-top: 10px; font-weight: 600; font-size: 15px; color: #222;">Arabic Document</div>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-      <img src="./examples/Example_4.jpeg" alt="Example_4" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.12);">
-      <div style="margin-top: 10px; font-weight: 600; font-size: 15px; color: #222;">Retail Receipt</div>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-      <img src="./examples/Example_5.jpeg" alt="Example_5" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.12);">
-      <div style="margin-top: 10px; font-weight: 600; font-size: 15px; color: #222;">Global Multilingual Contract</div>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-      <img src="./examples/Example_6.jpeg" alt="Example_6" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.12);">
-      <div style="margin-top: 10px; font-weight: 600; font-size: 15px; color: #222;">Beverage Label</div>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-      <img src="./examples/Example_of_Vietnamese.jpg" alt="Example of Vietnamese" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.12);">
-      <div style="margin-top: 10px; font-weight: 600; font-size: 15px; color: #222;">Example of Vietnamese</div>
-    </div>
-  </div>
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <img src="./examples/Example_0.jpeg" alt="Bank Statement" width="300"><br>
+      <b>Bank Statement</b>
+    </td>
+    <td align="center">
+      <img src="./examples/Example_1.jpeg" alt="Receipt Example" width="300"><br>
+      <b>Receipt Example</b>
+    </td>
+    <td align="center">
+      <img src="./examples/Example_2.jpeg" alt="Complex Form" width="300"><br>
+      <b>Complex Form</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./examples/Example_3.jpeg" alt="Arabic Document" width="300"><br>
+      <b>Arabic Document</b>
+    </td>
+    <td align="center">
+      <img src="./examples/Example_4.jpeg" alt="Retail Receipt" width="300"><br>
+      <b>Retail Receipt</b>
+    </td>
+    <td align="center">
+      <img src="./examples/Example_5.jpeg" alt="Global Multilingual Contract" width="300"><br>
+      <b>Global Multilingual Contract</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./examples/Example_6.jpeg" alt="Beverage Label" width="300"><br>
+      <b>Beverage Label</b>
+    </td>
+    <td align="center">
+      <img src="./examples/Example_of_Vietnamese.jpg" alt="Example of Vietnamese" width="300"><br>
+      <b>Example of Vietnamese</b>
+    </td>
+    <td align="center">
+      <!-- 空白格，保持 3 列对齐 -->
+    </td>
+  </tr>
+</table>
 </div>
 
 
