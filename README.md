@@ -18,7 +18,7 @@ Generate photorealistic business documents with annotations — ready for use in
 - **2026/05/30** — Added a [Question and Answer (Q&A) module](./questions/README.md) to this project.
 - **2026/06/23** — Built a website for the [Synthetic Engine](https://www.alrowilde.com/) project.
 - **2026/06/23** — A few new examples demonstrating the capabilities of this tool.
-- **2026/07/28** — Public [a new dataset](https://huggingface.co/datasets/AlroWilde/olmOCR-mix-1025-Photoreal) based on [olmOCR-mix-1025](https://huggingface.co/datasets/allenai/olmOCR-mix-1025).
+- **2026/07/28** — Public [a new dataset olmOCR-mix-1025-Photoreal](https://huggingface.co/datasets/AlroWilde/olmOCR-mix-1025-Photoreal) based on [olmOCR-mix-1025](https://huggingface.co/datasets/allenai/olmOCR-mix-1025).
 - **2026/07/29** — Added a [Discord link](https://discord.gg/uMfB5JpqED) jump button as a way to find me on Discord.
 
 ### Why It Matters
