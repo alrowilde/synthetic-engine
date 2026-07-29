@@ -19,7 +19,7 @@ Generate photorealistic business documents with annotations — ready for use in
 - **2026/06/23** — Built a website for the [Synthetic Engine](https://www.alrowilde.com/) project.
 - **2026/06/23** — A few new examples demonstrating the capabilities of this tool.
 - **2026/07/28** — Public [a new dataset olmOCR-mix-1025-Photoreal](https://huggingface.co/datasets/AlroWilde/olmOCR-mix-1025-Photoreal) based on [olmOCR-mix-1025](https://huggingface.co/datasets/allenai/olmOCR-mix-1025).
-- **2026/07/29** — Added a [Discord link](https://discord.gg/uMfB5JpqED) jump button as a way to find me on Discord.
+- **2026/07/29** — Added a [Discord link](https://discord.gg/uMfB5JpqED) as a way to find me on Discord.
 
 ### Why It Matters
 In FinTech, Logistics, and Healthcare, real business documents are often scarce, highly sensitive, or expensive to label. Synthetic Engine solves this by producing high-fidelity synthetic images that closely match real-world conditions while automatically providing accurate, structured annotations.
