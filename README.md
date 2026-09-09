@@ -47,6 +47,12 @@ The result: enterprises can rapidly build robust document AI systems without com
 <table>
   <tr>
     <td align="center">
+      <img src="./new_example.png" alt="PDF" width="300"><br>
+      <b>PDF and result</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <img src="./examples/Example_7.jpeg" alt="Physical deformation" width="300"><br>
       <b>Physical deformation</b>
     </td>
