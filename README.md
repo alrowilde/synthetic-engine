@@ -47,7 +47,7 @@ The result: enterprises can rapidly build robust document AI systems without com
 <table>
   <tr>
     <td align="center">
-      <img src="./Example_7.jpeg" alt="OCR example" width="300"><br>
+      <img src="./examples/Example_8.jpeg" alt="OCR example" width="300"><br>
       <b>OCR example</b>
     </td>
     <td align="center">
